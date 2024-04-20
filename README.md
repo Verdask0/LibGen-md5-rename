@@ -19,7 +19,7 @@ The script processes files within a specified directory, fetching metadata from 
    pip install requests lxml
    ```
 
-2. **Configuration**: Modify the `directory` variable in the script to the path of the files you want to process.
+2. **Configuration**: Modify the `directory` and the `languages` variables in the script to the path of the files you want to process, and the languages you want to keep.
 
 3. **Execution**: Run the script from your command line:
    ```bash
